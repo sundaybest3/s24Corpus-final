@@ -23,6 +23,9 @@ For written language data, NOW Sample Data from COCA are used. The Now Corpus is
 + Removed unnecessary characters such as "@", < p >, and < h >.
 + Split Text ID from the texts. 
 ## 4. Result and discussion
+![Occurrences_comparison](https://github.com/sundaybest3/s24Corpus-final/assets/163014658/3fd6b9db-fbc0-45b8-8c8b-31a422b70ace)
+
+
 
 ## 5. Summary and future research
 
