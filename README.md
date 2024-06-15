@@ -7,6 +7,7 @@ This study
 ## 2. Literature review
 
 RQ1. How much does the use of passive voice differ between spoken and written materials?
+
 RQ2. Is there a significant difference in the use of the "passive voice + by + agent" construction between spoken and written materials?
 ## 3. Methodology
 Compared the frequency spoken language data and written language data
