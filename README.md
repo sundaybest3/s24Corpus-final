@@ -3,8 +3,10 @@
 Written by Jungmin Choi 
 
 ## 1. Introduction
-This study 
+  Passive voice is used when  
 ## 2. Literature review
+Paul Mathieson covered the use of the passive voice in English in six aspects -- (1) the passive syntax, (2) the be-passive, (3) the get-passive, (4) pseudo-passives, (5) the agent phrase, (6) verbs which cannot be used in passive form. The active voice is the most common form of expression in English, and is usually adopted where the 'agent' -- or doer -- of the action is the focal point (Paul Mathieson). However, as Huddlestone and Pullum (2002) point out, passive clauses place the grammatical subject in the position of 'patient', or the recipient of the action (p. 1427). The be-passive occurs in a variety of different tense and aspect combinations in English, making the most commonly used passive voice form. The get-passive is also used in a range of forms, although, as Quirk et al. (1985) highlight, it “is avoided in formal style, and even in informal English it is far less frequent than the be-passive” (p. 161). The pseudo-passives can be read as an adjectival complement phrase, but still could be considered as a passive structure, since they take the form of the be or get + past participle. 
+The agent is mostly mentioned using the preposition by. There may be some other prepositions used such as on or at when the subject in the active sentence is not the "true active agent" (p.798). 
 
 RQ. Is there a significant difference in the use of the "passive voice + by + agent" construction between spoken and written materials?
 
