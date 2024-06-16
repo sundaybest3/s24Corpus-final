@@ -37,5 +37,5 @@ For written language data, NOW Sample Data from COCA are used. The Now Corpus is
 
 
 ## 5. Summary and future research
-
+Use of passive voice in academical writings. 
 ## References (APA style) 
