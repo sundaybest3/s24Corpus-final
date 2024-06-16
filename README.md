@@ -35,6 +35,9 @@ Detailed process: https://github.com/sundaybest3/s24Corpus-final/blob/main/Corpu
 The objective of this analysis was to determine whether there is a significant association between types of language and occurrences of passives without agent and with agent. 
 In both spoken and written language data, passive constructions without an agent appeared overwhelmingly more frequently than those with an agent, with approximately 1% more usage observed in the written language data.  
 
+![Occurences_comparison](https://github.com/sundaybest3/s24Corpus-final/assets/163014658/6c99138b-2cc0-4931-9699-417b2a56998f)
+
+
 # Results of Passive Construction Analysis 
 | Category                        | Occurrences  | Percentage |
 |---------------------------------|--------------|------------|
