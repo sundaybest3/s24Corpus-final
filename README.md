@@ -25,29 +25,42 @@ For written language data, NOW Sample Data from COCA are used. The Now Corpus is
 + Split Text ID from the texts.
 
 2) Find occurrences of passives and passives with agent from spoken and written language data.
-3) Conduct a chi-square test of independence to see if there is a significant association between types of text(spoken vs written) and types of passive construction(without agent vs. with agent).
-(a) Null hypothesis: Types of text(spoken vs written) are independent of types of passive construction.
-(b) Alternative hypothesis: There is a dependence between types of text and types of passive construction.     
+3) Conduct a chi-square test of independence to see if there is a significant association between types of language(spoken vs written) and types of passive construction(without agent vs. with agent).
+(a) Null hypothesis: Types of language(spoken vs written) are independent of types of passive construction(without agent vs. with agent).
+(b) Alternative hypothesis: There is a dependence between types of text and types of passive construction.
+
+Detailed process: https://github.com/sundaybest3/s24Corpus-final/blob/main/Corpus/NLTK_spokenwritten.ipynb
+
 ## 4. Result and discussion
-![Occurences_comparison](https://github.com/sundaybest3/s24Corpus-final/assets/163014658/e66ddf4d-ad5d-4d39-9db3-75d877cc6502)
+The objective of this analysis was to determine whether there is a significant association between types of language and occurrences of passives without agent and with agent. 
+In both spoken and written language data, passive constructions without an agent appeared overwhelmingly more frequently than those with an agent, with approximately 1% more usage observed in the written language data.  
 
+# Results of Passive Construction Analysis 
+| Category                        | Occurrences  | Percentage |
+|---------------------------------|--------------|------------|
+| Spoken passives without agent   | 629          | 96.32%     |
+| Spoken passives with agent      | 24           | 3.68%      |
+| Written passives without agent  | 9255         | 95.39%     |
+| Written passives with agent     | 447          | 4.61%      |
 
-| Statistic                  | Value             |
-|----------------------------|-------------------|
-| Chi-squared statistic      | 0.8868529837026333|
-| p-value                    | 0.34633154664298904|
-| Degrees of freedom         | 1                 |
-| Expected frequencies       |                   |
-| Spoken be+p.p.             | 614.6761165       |
-| Written be+p.p.            | 9216.3238835      |
-| Spoken be+p.p.+by+agent    | 29.3238835        |
-| Written be+p.p.+by+agent   | 439.6761165       |
+A contingency table was constructed from the results of analysis to cross-tabulate the occurrences of passives with and without agent by types of language data (spoken and written). The contingency table and expected frequencies were as follows: 
 
+# Chi-Squared Test Results
+| Statistic                  | Value                |
+|----------------------------|----------------------|
+| Chi-squared statistic      | 0.8868529837026333   |
+| p-value                    | 0.34633154664298904  |
+| Degrees of freedom         | 1                    |
 
+# Expected Frequencies
+| Category                   | Spoken Expected | Written Expected |
+|----------------------------|-----------------|------------------|
+| Passives without agent     | 614.6761165     | 9216.3238835     |
+| Passives with agent        | 29.3238835      | 439.6761165      |
 
-
+The Chi-squared test of independence was applied to assess if the observed occurrences of passive types across data of two types of language were statistically significant (($\chi^2 = 0.887, DoF = 1, $p = 0.346). The p-value of 0.346 suggests that there is no significant difference between the language types and occurrences of passives with or without agent. The observed frequencies do not deviate significantly from the expected frequencies. 
 
 ## 5. Summary and future research
-Use of passive voice in academical writings. 
-Since the chi-squared test shows no significant difference between the spoken and written data regarding the occurrences of passives and passives with agent, further qualitative analyses or context-specific investigations needs to be conducted to understand the usage patterns better. 
+The chi-squared test shows no significant difference between the spoken and written language data regarding the occurrence of passives without agent and passives with agent. Further qualitative analyses or context-specific investigations needs to be conducted to identify patterns or differences that may not be apparent in the overall data. Furthermore, since passive voice is used heavily in academic and formal settings, it is worth looking at other data in different areas to understand the usage patterns better. 
+
 ## References (APA style) 
