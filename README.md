@@ -12,16 +12,15 @@ Paul Mathieson covered the use of the passive voice in English in six aspects --
 
 The agent is mostly mentioned using the preposition by. There may be some other prepositions used such as on with, or at when the subject in the active sentence is not the "true active agent" (p.798). 
 
-In A Student's of the English Language, Greenbaum and Quirk identified 7 reasons why speakers and writers use the passive:
+In 'A Student's Grammar of the English Language', Greenbaum and Quirk identified 7 reasons why speakers and writers use the passive:
 + 1 They do not know the identity of the agent of the action. 
 + 2 They want to avoid identifying the agent in purpose.
 + 3 They feel there is no reason for mentioning the agent because the identification is unimportant or obvious.
 + 4 In scientific and technical writing, they need to avoid the constant use of the subject I or we and to put the emphasis on processes and experimental procedures.
 + 5 To put emphasis on the agent of the action
 + 6 To put long active agent on the end
-+ 7 To retain the same subject throuout a long sentence.
-Reasons 1-4 illustrate the uses of the passive without the agent by-phrase, which is commonly omitted, and in reason 5-6, the passive voice provides a way of postponing the agentive subject by turning it into the agent in a passive construction. We thus reverse the active order of the agentive and affected elements where the agentive requires end-focus.
-
++ 7 To retain the same subject throughout a long sentence.
+Reasons 1-4 illustrate the uses of the passive without the agent by-phrase, which is commonly omitted, and in reason 5-6, the passive voice provides a way of postponing the agentive subject by turning it into the agent in a passive construction. We thus reverse the active order of the agentive and affected elements where the agentive requires end-focus. This analysis focuses on the use of passives related to reason 5-6 to investigate passives with explicit agents. 
 
 ## 3. Methodology
 
@@ -82,3 +81,5 @@ The Chi-squared test of independence was applied to assess if the observed occur
 The chi-squared test shows no significant difference between the spoken and written language data regarding the occurrence of passives without agent and passives with agent. Further qualitative analyses or context-specific investigations needs to be conducted to identify patterns or differences that may not be apparent in the overall data. Patterns of different uses of prepositions may be included. Furthermore, since passive voice is used heavily in academic and formal settings, it is worth looking at other data in different areas to understand the usage patterns better. 
 
 ## References (APA style) 
+Mathieson, P. (2017). Secret agents and innocent patients: The mysteries of the English passive voice and its use (and misuse) in EFL writing in Japan. Journal of Pan-Pacific Association of Applied Linguistics.
+Greenbaum, S., & Quirk, R. (1990). A student's Grammar of the English Language. Longman Publishing Group.
