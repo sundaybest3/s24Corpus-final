@@ -1,6 +1,6 @@
 # s24Corpus-final project
 
-Written by Jungmin Choi 
+Written by Ana. J. Choi
 
 ## 1. Introduction
   When we learn the passive voice, we understand that the subject of a passive sentence is the object of the corresponding active sentence, and the verb takes the form of 'be + past participle.' The agent, or the subject of the active sentence, is indicated by 'by + agent' or commonly omitted. During this process, we often encounter sentences with agents that are unlikely to be used in everyday situations.
