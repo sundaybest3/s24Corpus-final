@@ -1,4 +1,4 @@
-# s24Corpus-final project
+# s24Corpus-final project (Miran comment: Write a title appropriate to your investigation topic)
 
 Written by Ana. J. Choi
 
