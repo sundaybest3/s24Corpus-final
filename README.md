@@ -1,4 +1,4 @@
-# s24Corpus-final project (Miran comment: Write a title appropriate to your investigation topic)
+# Analyzing Passive Voice Usage: A Study of Spoken and Written English in TED Talks and NOW Corpus
 
 Written by Ana. J. Choi
 
