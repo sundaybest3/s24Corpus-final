@@ -80,6 +80,6 @@ The Chi-squared test of independence was applied to assess if the observed occur
 ## 5. Summary and future research
 The chi-squared test shows no significant difference between the spoken and written language data regarding the occurrence of passives without agent and passives with agent. Further qualitative analyses or context-specific investigations needs to be conducted to identify patterns or differences that may not be apparent in the overall data. Patterns of different uses of prepositions may be included. Furthermore, since passive voice is used heavily in academic and formal settings, it is worth looking at other data in different areas to understand the usage patterns better. 
 
-## References (APA style) 
+## References (APA style) (Miran comment: see how to italicize texts in md file)
 Mathieson, P. (2017). Secret agents and innocent patients: The mysteries of the English passive voice and its use (and misuse) in EFL writing in Japan. Journal of Pan-Pacific Association of Applied Linguistics.
-Greenbaum, S., & Quirk, R. (1990). A student's Grammar of the English Language. Longman Publishing Group.
+Greenbaum, S., & Quirk, R. (1990). _A student's Grammar of the English Language_. Longman Publishing Group.
