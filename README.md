@@ -19,7 +19,8 @@ In 'A Student's Grammar of the English Language', Greenbaum and Quirk identified
 + 4 In scientific and technical writing, they need to avoid the constant use of the subject I or we and to put the emphasis on processes and experimental procedures.
 + 5 To put emphasis on the agent of the action
 + 6 To put long active agent on the end
-+ 7 To retain the same subject throughout a long sentence.
++ 7 To retain the same subject throughout a long sentence
+  
 Reasons 1-4 illustrate the uses of the passive without the agent by-phrase, which is commonly omitted, and in reason 5-6, the passive voice provides a way of postponing the agentive subject by turning it into the agent in a passive construction. We thus reverse the active order of the agentive and affected elements where the agentive requires end-focus. This study focuses on the use of passives related to reason 5-6 to investigate passives with explicit agents. 
 
 ## 3. Methodology
