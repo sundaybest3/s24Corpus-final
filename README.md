@@ -41,7 +41,9 @@ For written language data, NOW Sample Data from COCA are used. The Now Corpus is
 
 2) Find occurrences of passives and passives with agent from spoken and written language data.
 3) Conduct a chi-square test of independence to see if there is a significant association between types of language(spoken vs written) and types of passive construction(without agent vs. with agent).
+   
 (a) Null hypothesis: Types of language(spoken vs written) are independent of types of passive construction(without agent vs. with agent).
+
 (b) Alternative hypothesis: There is a dependence between types of text and types of passive construction.
 
 Detailed process: https://github.com/sundaybest3/s24Corpus-final/blob/main/Corpus/NLTK_spokenwritten.ipynb
